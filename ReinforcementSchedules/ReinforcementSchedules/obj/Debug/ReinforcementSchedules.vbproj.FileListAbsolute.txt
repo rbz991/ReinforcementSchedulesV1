@@ -1,0 +1,40 @@
+C:\Users\rbz99\source\repos\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.exe.config
+C:\Users\rbz99\source\repos\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.exe
+C:\Users\rbz99\source\repos\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.pdb
+C:\Users\rbz99\source\repos\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.xml
+C:\Users\rbz99\source\repos\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.vbproj.AssemblyReference.cache
+C:\Users\rbz99\source\repos\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rbz99\source\repos\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.Main.resources
+C:\Users\rbz99\source\repos\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.Resources.resources
+C:\Users\rbz99\source\repos\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.SetUp.resources
+C:\Users\rbz99\source\repos\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.vbproj.GenerateResource.cache
+C:\Users\rbz99\source\repos\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.vbproj.CoreCompileInputs.cache
+C:\Users\rbz99\source\repos\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.exe
+C:\Users\rbz99\source\repos\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.xml
+C:\Users\rbz99\source\repos\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.pdb
+G:\Mi unidad\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.exe.config
+G:\Mi unidad\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.exe
+G:\Mi unidad\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.pdb
+G:\Mi unidad\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.xml
+G:\Mi unidad\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.vbprojAssemblyReference.cache
+G:\Mi unidad\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.Main.resources
+G:\Mi unidad\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.Resources.resources
+G:\Mi unidad\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.SetUp.resources
+G:\Mi unidad\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.vbproj.GenerateResource.cache
+G:\Mi unidad\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.vbproj.CoreCompileInputs.cache
+G:\Mi unidad\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.exe
+G:\Mi unidad\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.xml
+G:\Mi unidad\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.pdb
+G:\My Drive\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.vbproj.AssemblyReference.cache
+G:\My Drive\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.Main.resources
+G:\My Drive\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.Resources.resources
+G:\My Drive\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.SetUp.resources
+G:\My Drive\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.vbproj.GenerateResource.cache
+G:\My Drive\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.vbproj.CoreCompileInputs.cache
+G:\My Drive\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.exe
+G:\My Drive\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.xml
+G:\My Drive\ReinforcementSchedules\obj\Debug\ReinforcementSchedules.pdb
+G:\My Drive\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.exe.config
+G:\My Drive\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.exe
+G:\My Drive\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.pdb
+G:\My Drive\ReinforcementSchedules\bin\Debug\ReinforcementSchedules.xml
